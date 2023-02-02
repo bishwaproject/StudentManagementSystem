@@ -24,7 +24,7 @@ public class StudentDetails {
 			switch(choice) {
 			case 1:
 				daoImpl.addStudents();
-              //daoImpl.saveToFile();
+             
 				studentMenu();
 				break;
 			case 2:
